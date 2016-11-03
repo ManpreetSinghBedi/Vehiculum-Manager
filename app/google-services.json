@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "587881323114",
+    "firebase_url": "https://vehiculum-manager.firebaseio.com",
+    "project_id": "vehiculum-manager",
+    "storage_bucket": "vehiculum-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587881323114:android:44043a12ecdf60a6",
+        "android_client_info": {
+          "package_name": "com.a16mb.vehiclemanager.vehiculum_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587881323114-94teqds7tkivq98i2fre3aj8jbmjm7gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a16mb.vehiclemanager.vehiculum_manager",
+            "certificate_hash": "C1C8255CDE7A4A3D5796C1F20D18BDEC086D69A4"
+          }
+        },
+        {
+          "client_id": "587881323114-iem4vmiia15njbt8eaeip325sgjbtf5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDqKCsYNR7aLfD8-cWmWXv0sbD0_IB3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587881323114-iem4vmiia15njbt8eaeip325sgjbtf5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
